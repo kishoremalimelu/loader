@@ -12,3 +12,13 @@
   margin-left:5px;
   border-radius: 50px;
 }
+.load1{
+  background:#4285F4;
+  animation:load 1s infinite;
+  animation-delay:0.1s;
+}
+.load2{
+  background:#DB4437;
+  animation:load 1s infinite;
+  animation-delay:0.2s;
+}
